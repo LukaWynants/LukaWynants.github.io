@@ -8,7 +8,7 @@ tags: [Ransomware, Cybersecurity, Cryptography]
 
 **About this project**
 
-This project documents the development of a controlled proof-of-concept (PoC) ransomware used as part of my research during my internship at ActWise. The goal was not to create malware for harm, but to reproduce and study the techniques modern ransomware families use to evade detection and encrypt files — so I could evaluate a possible solution **CyberArk Endpoint Privilege Manager (EPM)**.
+This project documents the development of a controlled proof-of-concept (PoC) ransomware used as part of my research during my internship at ActWise. The goal was not to create malware for harm, but to reproduce and study the techniques modern ransomware families use to evade detection and encrypt files, so I could evaluate a possible solution CyberArk Endpoint Privilege Manager (EPM).
 
 The PoC is built as a modular model (builder, dropper, keygen, encryptor and a decryptor for recovery) so I could test different encryption strategies and evasion techniques in a safe, offline lab. Before developing the PoC I studied real-world samples (WannaCry, Trigona, Akira and LockBit 3.0) in an intentionally vulnerable environment to better understand their behavior and impact.
 
