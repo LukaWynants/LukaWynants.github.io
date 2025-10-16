@@ -1,6 +1,6 @@
 # About Me
 
-# Projects & Posts
+# Projects
 
 <ul>
   {% for post in site.posts %}
