@@ -23,6 +23,7 @@ You can read or download my full research paper on WPA2 and its countermeasures 
     style="border:none;">
 </iframe>
 
+
 <p>
-  If the PDF doesn't load, you can also [**download it directly**]({{ '/assets/HackingWPA2.pdf' | relative_url }}).
+  If the PDF doesn't load, you can also <a href="{{ '/assets/HackingWPA2.pdf' | relative_url }}">download it directly</a>.
 </p>

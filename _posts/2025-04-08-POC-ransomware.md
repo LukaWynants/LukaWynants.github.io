@@ -30,6 +30,7 @@ You can read or download my full research paper on ransomware I created below.
     style="border:none;">
 </iframe>
 
+
 <p>
-  If the PDF doesn't load, you can also [**download it directly**]({{ '/assets/POC_Ransomware.pdf' | relative_url }}).
+  If the PDF doesn't load, you can also <a href="{{ '/assets/POC_Ransomware.pdf' | relative_url }}">download it directly</a>.
 </p>
