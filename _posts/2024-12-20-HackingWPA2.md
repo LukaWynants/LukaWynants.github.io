@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A practical breakdown of WPA2, PoC attacks and mitigations"
-date: 2024-20-12
+date: 2024-12-20
 author: "Luka Wynants"
 tags: [WPA2, Hacking, Vulnerability Assesment]
 image:

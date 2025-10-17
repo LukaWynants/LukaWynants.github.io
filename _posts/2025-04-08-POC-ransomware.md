@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ransomware Proof-of-Concept"
-date: 2025-08-04
+date: 2025-04-08
 author: "Luka Wynants"
 tags: [Ransomware, Cybersecurity, Cryptography]
 image:
